@@ -1,2 +1,2 @@
-# stockpredict
+# stock-predict
  
